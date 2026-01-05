@@ -39,7 +39,7 @@ The goal of this project is to demonstrate backend design, REST API development,
 git clone https://github.com/aman2225/trading-sdk.git
 cd trading-sdk
 ```
-2. Run application
+### 2. Run application
 ```bash   
    mvn spring-boot:run
 ```
